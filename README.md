@@ -20,7 +20,7 @@ or
 pip3 install -r requirements.txt --user
 ~~~
 
-## Fucture Scopes
+## Future Scopes
 
 * Adding scenarios, features and extra actions if needed. 
 * To use RNN and make predictions based on stock returns.
