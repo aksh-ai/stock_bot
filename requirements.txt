@@ -2,5 +2,5 @@ numpy
 pandas
 matplotlib
 scikit-learn
-tensorflow==2.0.1
+tensorflow==2.11.1
 jupyterlab
